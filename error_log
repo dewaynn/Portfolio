@@ -1,0 +1,259 @@
+[15-Jun-2023 04:08:45 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:08:45 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:08:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:08:45 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:08:46 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:08:46 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:09:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:09:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:09:37 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:09:37 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:10:28 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:10:28 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:31 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:31 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:11:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:12:47 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:15:48 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:17:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:17:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:17:49 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:18:10 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:26:20 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:26:20 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:26:20 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:26:20 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:27:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:27:16 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:27:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:27:16 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:27:17 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:30:03 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:30:03 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:30:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:30:03 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:30:04 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:31:54 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:31:56 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:33:07 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:35:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:35:45 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:36:46 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:36:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:36:52 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:36:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:36:52 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:36:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:37:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:37:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:38:04 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:40:59 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:40:59 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:40:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:40:59 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:41:00 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:41:06 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:41:06 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:41:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:41:06 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:41:07 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:41:27 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:41:27 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:41:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:41:27 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:41:27 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:49:26 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:49:41 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:49:55 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:49:55 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:50:30 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:50:51 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:02 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:07 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:09 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:14 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:22 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:51:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:52:28 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:52:30 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:53:14 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:53:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:53:39 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:01 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:05 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:18 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:30 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:37 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:54:41 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:10 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:10 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:10 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:19 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: school in /home/badeknka/public_html/add-funds.php on line 111
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: address in /home/badeknka/public_html/add-funds.php on line 114
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/add-funds.php on line 117
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: program in /home/badeknka/public_html/add-funds.php on line 120
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: qatr in /home/badeknka/public_html/add-funds.php on line 120
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: contact in /home/badeknka/public_html/add-funds.php on line 122
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: cnic in /home/badeknka/public_html/add-funds.php on line 124
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: dist in /home/badeknka/public_html/add-funds.php on line 126
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:29 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/badeknka/public_html/track-funds.php on line 30
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:38 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined variable: school in /home/badeknka/public_html/tracking.php on line 17
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/tracking.php on line 53
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:43 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:46 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:46 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:46 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:46 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:48 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:57:50 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:57:50 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:57:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:57:50 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:57:53 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 04:58:10 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:58:10 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 04:58:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 04:58:10 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 04:58:41 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:58:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:58:53 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:58:56 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:58:59 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:59:02 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:59:28 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 04:59:40 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:00:20 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:00:23 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:00:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:00:39 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:22 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:26 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:29 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:39 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:49 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:50 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:01:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:00 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:07 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:25 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:31 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:44 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:54 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:02:57 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:01 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:02 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:17 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:24 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:36 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:54 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:03:57 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:04:03 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:04:17 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:05:28 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:05:36 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:06:09 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:06:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:06:56 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:07:43 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:12 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:17 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:21 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:30 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:35 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:08:57 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:09:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:09:24 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:10:17 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:10:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:10:46 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:10:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:11:25 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:11:36 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:11 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: dist in /home/badeknka/public_html/emergency-request.php on line 78
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: contact in /home/badeknka/public_html/emergency-request.php on line 83
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: cnic in /home/badeknka/public_html/emergency-request.php on line 88
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: school in /home/badeknka/public_html/emergency-request.php on line 106
+[15-Jun-2023 05:12:15 Asia/Calcutta] PHP Notice:  Undefined variable: address in /home/badeknka/public_html/emergency-request.php on line 106
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:12:16 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:17:48 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:17:48 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:17:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:17:48 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
+[15-Jun-2023 05:17:49 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/php/dbconnect.php on line 16
+[15-Jun-2023 05:30:13 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/badeknka/public_html/dbconnect.php on line 16
+[15-Jun-2023 05:30:13 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_uid in /home/badeknka/public_html/header.php on line 7
+[15-Jun-2023 05:30:13 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/badeknka/public_html/header.php on line 12
+[15-Jun-2023 05:30:13 Asia/Calcutta] PHP Notice:  Undefined variable: name in /home/badeknka/public_html/header.php on line 231
